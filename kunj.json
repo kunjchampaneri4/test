@@ -1,0 +1,8 @@
+{
+    "input_variables": [
+        "kunj"
+    ],
+    "output_parser": null,
+    "template": "kunj",
+    "template_format": "f-string"
+}
